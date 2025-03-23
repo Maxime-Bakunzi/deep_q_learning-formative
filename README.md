@@ -83,8 +83,7 @@ The table below compares the different trained models:
 We recorded 5 full episodes of the trained agent playing **Atari Boxing**. The merged video file is available in the repository:
 
 📹 **Watch the gameplay video:** 
-![Click to Watch](videos/merged_video.mp4)
-https://github.com/Maxime-Bakunzi/deep_q_learning-formative/issues/1#issue-2941409534 
+![Click to Watch](https://github.com/Maxime-Bakunzi/deep_q_learning-formative/issues/1#issue-2941409534) 
 ## Final Thoughts
 This project successfully implemented **Deep Q-Learning** to train an agent for Atari Boxing. The selected model **dqn_model.zip** showed the best performance, and the gameplay videos demonstrate its ability to interact effectively with the environment.
 
