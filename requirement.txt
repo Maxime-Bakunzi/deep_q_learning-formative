@@ -1,0 +1,7 @@
+gymnasium[atari]
+stable-baselines3
+ale-py
+numpy
+pyvirtualdisplay
+moviepy
+autorom[accept-rom-license]
