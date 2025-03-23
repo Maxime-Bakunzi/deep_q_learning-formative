@@ -3,7 +3,7 @@
 ## Overview
 This project implements **Deep Q-Learning (DQN)** to train an agent to play Atari's **Boxing** using **Stable-Baselines3**. The model is trained in Google Colab due to memory constraints and runs in a Jupyter Notebook for training and evaluation. A recorded video of the agent playing 5 episodes is included to showcase its performance.
 
-## People involevd in the project:
+## People involved in the project:
 - Maxime Guy Bakunzi
 - Mariam Azeez
 - Prince Ndanyuzwe
