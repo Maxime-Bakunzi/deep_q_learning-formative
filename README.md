@@ -11,7 +11,7 @@ This project implements **Deep Q-Learning (DQN)** to train an agent to play Atar
 ### Roles & Contributions
 - Maxime: Trained the model using the first hyperparameter set.
 - Mariam: Tuned two additional hyperparameter sets, including one with MLPolicy.
-- Prince: Developed play.py to test and visualize agent performance.
+- Prince: Developed `play.py` to test and visualize agent performance.
 
 ## Repository Structure
 ```
