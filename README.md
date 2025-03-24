@@ -89,6 +89,16 @@ We recorded 5 full episodes of the trained agent playing **Atari Boxing**. The m
 
 📹 **Watch the gameplay video:** 
 
+### Link to the Full Video of all 5 episodes when the script `play.py` was successfully run
+
+https://youtu.be/adsgiKkNCXU 
+
+### Video When the script `play.py` was successfully run for Episode 1
+
+https://github.com/user-attachments/assets/e8a0d37b-756b-4cc9-b10d-c308f80f4ae4
+
+### The Fast-paced Merged Video
+
 https://github.com/user-attachments/assets/83452e3e-58c1-4543-bedc-d676982e70a8
 
 ## Final Thoughts
