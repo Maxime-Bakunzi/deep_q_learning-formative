@@ -5,3 +5,5 @@ numpy
 pyvirtualdisplay
 moviepy
 autorom[accept-rom-license]
+opencv-python
+python-xlib 
